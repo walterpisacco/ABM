@@ -57,15 +57,16 @@
                                     {{ __('Login') }}
                                 </button>
 
-                                <a href="{{ url('auth/google') }}" style="margin-top: 0px !important;background: green;color: #ffffff;padding: 5px;border-radius:7px;" class="ml-2">
-                                  <strong>Google Login</strong>
+                                <a href="{{ url('auth/google') }}" style="margin-top: 0px !important;padding: 5px;border-radius:7px;" class="ml-2">
+                                  <img style="width: 230px;" src="img/gbutton.jpg"/>
                                 </a> 
-                
+                                <div>
                                 @if (Route::has('password.request'))
                                     <a class="btn btn-link" href="{{ route('password.request') }}">
                                         {{ __('Forgot Your Password?') }}
                                     </a>
                                 @endif
+                                </div>
                             </div>
                         </div>
                     </form>
