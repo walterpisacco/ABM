@@ -1,7 +1,7 @@
 ## Login con cuenta de Google
 
 <p align="center">
-Demo para general un login con redes sociales
+Demo de un login con redes sociales el Laravel
 </p>
 
 ![Login Google](https://github.com/walterpisacco/ABM/blob/main/public/img/imagen1.png)
