@@ -4,7 +4,7 @@
 Demo para general un login con redes sociales
 </p>
 
-![Vision Artificial](https://github.com/walterpisacco/ABM/blob/main/imagen1.png)
+![Login Google](https://github.com/walterpisacco/ABM/blob/main/public/img/imagen1.png)
 
 [![Build Status](https://travis-ci.org/changeweb/Unifiedtransform.svg?branch=master)](https://travis-ci.org/changeweb/Unifiedtransform)
 [![Linux](https://img.shields.io/travis/changeweb/Unifiedtransform/master.svg?label=linux)](https://travis-ci.org/changeweb/Unifiedtransform)
