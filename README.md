@@ -57,6 +57,7 @@ Thus you permit the user of this software to use your contribution under the ter
     :/# composer install
 	:/#	php artisan key:generate
 	:/#	crear base de datos Mysql y configurar .env
+    :/# configurar .env con cliente_de_OAuth (ID_Cliente y Secreto) obtenidos de nuestra cuenta de google developer para nuestra app
 	:/#	npm install && npm run dev
 	:/#	npm run build
 	:/#	php artisan migrate
